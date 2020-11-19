@@ -1,0 +1,55 @@
+using System.Collections;
+//using Unity.Mathematics;
+using UnityEngine;
+
+public class Movement : MonoBehaviour
+{
+	private float refreshRate = 0.01f;
+
+	public float playerSpeed;
+	private Rigidbody2D rb;
+	private Vector2 leftStickInput;
+	private Vector2 rightStickInput;
+
+	public float MouseSpeed;
+
+	void OnEnable()
+	{
+		rb = GetComponent<Rigidbody2D>();
+		StartCoroutine(Refresh());
+	}
+
+	//A Function that is set to loop
+	IEnumerator Refresh()
+	{
+		//Wait for the time to pass in seconds
+		yield return new WaitForSeconds(refreshRate);
+			leftStickInput = new Vector2(Input.GetAxis("Horizontal"), Input.GetAxis("Vertical"));
+			rightStickInput = new Vector2(Input.GetAxis("R_Horizontal"), Input.GetAxis("R_Vertical"));
+			
+			Vector2 curMovement = leftStickInput * playerSpeed * Time.deltaTime;
+			rb.MovePosition(rb.position + curMovement);
+
+		if(rightStickInput.magnitude > 0f)
+		{
+			Vector3 curRotation = Vector3.left * rightStickInput.x + Vector3.up * rightStickInput.y;
+			Quaternion playerRotation = Quaternion.LookRotation(curRotation, Vector3.forward);
+			rb.SetRotation(playerRotation);
+		}
+
+
+
+		/*
+		if(MouseMove)
+		{
+			var pos = Input.mousePosition;
+			pos.z = 4.2f;
+			pos = Camera.main.ScreenToWorldPoint(pos);
+			transform.position = Vector3.Lerp(transform.position, pos, MouseSpeed * Time.deltaTime);
+		}
+		*/
+
+		StartCoroutine(Refresh());
+	}
+}
+ 

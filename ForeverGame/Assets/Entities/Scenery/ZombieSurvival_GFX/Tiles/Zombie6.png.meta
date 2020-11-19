@@ -1,0 +1,7018 @@
+fileFormatVersion: 2
+guid: eb5e3f1a6191abb46bc6cc5d5f2d1a72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3429028050760410741
+    second: Zombie_TileD_0
+  - first:
+      213: -523224105031418864
+    second: Zombie_TileD_1
+  - first:
+      213: -8956215683605948436
+    second: Zombie_TileD_2
+  - first:
+      213: -6182521946605356700
+    second: Zombie_TileD_3
+  - first:
+      213: 8702583038188827023
+    second: Zombie_TileD_4
+  - first:
+      213: 3254009923463913626
+    second: Zombie_TileD_5
+  - first:
+      213: -7498984546872670116
+    second: Zombie_TileD_6
+  - first:
+      213: 2011548823135535670
+    second: Zombie_TileD_7
+  - first:
+      213: 5554802380187187404
+    second: Zombie_TileD_8
+  - first:
+      213: -6577928512592852959
+    second: Zombie_TileD_9
+  - first:
+      213: -5188348893395113518
+    second: Zombie_TileD_10
+  - first:
+      213: -8418943801408483953
+    second: Zombie_TileD_11
+  - first:
+      213: 1609435583946698714
+    second: Zombie_TileD_12
+  - first:
+      213: 1158862553384634007
+    second: Zombie_TileD_13
+  - first:
+      213: -1031679282857508503
+    second: Zombie_TileD_14
+  - first:
+      213: 4495127717144545847
+    second: Zombie_TileD_15
+  - first:
+      213: -2656328693750867137
+    second: Zombie_TileD_16
+  - first:
+      213: 2375957169136810700
+    second: Zombie_TileD_17
+  - first:
+      213: -1560898766766056291
+    second: Zombie_TileD_18
+  - first:
+      213: -2977523738717212446
+    second: Zombie_TileD_19
+  - first:
+      213: 2938162738095290276
+    second: Zombie_TileD_20
+  - first:
+      213: 9029976717501531711
+    second: Zombie_TileD_21
+  - first:
+      213: 476332535093304526
+    second: Zombie_TileD_22
+  - first:
+      213: -5669966059392200575
+    second: Zombie_TileD_23
+  - first:
+      213: -7315430377518417904
+    second: Zombie_TileD_24
+  - first:
+      213: 8702770998592674379
+    second: Zombie_TileD_25
+  - first:
+      213: 7763757914009719901
+    second: Zombie_TileD_26
+  - first:
+      213: 8299939442919594214
+    second: Zombie_TileD_27
+  - first:
+      213: -8014899557338824585
+    second: Zombie_TileD_28
+  - first:
+      213: -7569033567304591783
+    second: Zombie_TileD_29
+  - first:
+      213: -2913641364244138498
+    second: Zombie_TileD_30
+  - first:
+      213: 4966866195964060121
+    second: Zombie_TileD_31
+  - first:
+      213: 5749040242117241369
+    second: Zombie_TileD_32
+  - first:
+      213: -5468997903011813471
+    second: Zombie_TileD_33
+  - first:
+      213: -3840490021123170612
+    second: Zombie_TileD_34
+  - first:
+      213: 5535516949574903865
+    second: Zombie_TileD_35
+  - first:
+      213: -2279596173535936566
+    second: Zombie_TileD_36
+  - first:
+      213: 2667303953032735636
+    second: Zombie_TileD_37
+  - first:
+      213: 5875963882885274214
+    second: Zombie_TileD_38
+  - first:
+      213: 8887413639466718024
+    second: Zombie_TileD_39
+  - first:
+      213: 6313960257173271678
+    second: Zombie_TileD_40
+  - first:
+      213: -8729251549461323156
+    second: Zombie_TileD_41
+  - first:
+      213: -3837885663684189883
+    second: Zombie_TileD_42
+  - first:
+      213: 8199440967907905253
+    second: Zombie_TileD_43
+  - first:
+      213: 8092161240571708668
+    second: Zombie_TileD_44
+  - first:
+      213: -8786285356921644647
+    second: Zombie_TileD_45
+  - first:
+      213: 8927100525084763088
+    second: Zombie_TileD_46
+  - first:
+      213: -5872626510161714837
+    second: Zombie_TileD_47
+  - first:
+      213: 8609891214275026022
+    second: Zombie_TileD_48
+  - first:
+      213: 7671708829918673547
+    second: Zombie_TileD_49
+  - first:
+      213: 1489527307375374305
+    second: Zombie_TileD_50
+  - first:
+      213: -152456476540943894
+    second: Zombie_TileD_51
+  - first:
+      213: -2270128619289303194
+    second: Zombie_TileD_52
+  - first:
+      213: -1697217040799672247
+    second: Zombie_TileD_53
+  - first:
+      213: -2829750250862550472
+    second: Zombie_TileD_54
+  - first:
+      213: -2977454971996418684
+    second: Zombie_TileD_55
+  - first:
+      213: -8739906634335618849
+    second: Zombie_TileD_56
+  - first:
+      213: -2967339852379852079
+    second: Zombie_TileD_57
+  - first:
+      213: 7862269675070187678
+    second: Zombie_TileD_58
+  - first:
+      213: -2243063967524604121
+    second: Zombie_TileD_59
+  - first:
+      213: -2853989928321849367
+    second: Zombie_TileD_60
+  - first:
+      213: -9175037575950201445
+    second: Zombie_TileD_61
+  - first:
+      213: 3195885753743737414
+    second: Zombie_TileD_62
+  - first:
+      213: -425600247123168156
+    second: Zombie_TileD_63
+  - first:
+      213: 8064185126160866376
+    second: Zombie_TileD_64
+  - first:
+      213: 1998963458445783581
+    second: Zombie_TileD_65
+  - first:
+      213: -4417866131381188166
+    second: Zombie_TileD_66
+  - first:
+      213: 3544572151478986609
+    second: Zombie_TileD_67
+  - first:
+      213: 2291468753505495917
+    second: Zombie_TileD_68
+  - first:
+      213: -5403433353340945386
+    second: Zombie_TileD_69
+  - first:
+      213: -786944389931143215
+    second: Zombie_TileD_70
+  - first:
+      213: 6697688947275259308
+    second: Zombie_TileD_71
+  - first:
+      213: 1262981456612565662
+    second: Zombie_TileD_72
+  - first:
+      213: 1077522940752238594
+    second: Zombie_TileD_73
+  - first:
+      213: 5269043412164353534
+    second: Zombie_TileD_74
+  - first:
+      213: 8570162580771868620
+    second: Zombie_TileD_75
+  - first:
+      213: 5027798616950439109
+    second: Zombie_TileD_76
+  - first:
+      213: 3384305097801034120
+    second: Zombie_TileD_77
+  - first:
+      213: 1065222566621735921
+    second: Zombie_TileD_78
+  - first:
+      213: -4625269479091351326
+    second: Zombie_TileD_79
+  - first:
+      213: 4148687780299197445
+    second: Zombie_TileD_80
+  - first:
+      213: 3491091826250678624
+    second: Zombie_TileD_81
+  - first:
+      213: -3178230753217022169
+    second: Zombie_TileD_82
+  - first:
+      213: 6661959024471158636
+    second: Zombie_TileD_83
+  - first:
+      213: 4200517693316234240
+    second: Zombie_TileD_84
+  - first:
+      213: 3298893801170149119
+    second: Zombie_TileD_85
+  - first:
+      213: 5813074179324478206
+    second: Zombie_TileD_86
+  - first:
+      213: 8730734856868748906
+    second: Zombie_TileD_87
+  - first:
+      213: -2052616955520337688
+    second: Zombie_TileD_88
+  - first:
+      213: -5064216288267850030
+    second: Zombie_TileD_89
+  - first:
+      213: -4658557038463248994
+    second: Zombie_TileD_90
+  - first:
+      213: 4369642551926473471
+    second: Zombie_TileD_91
+  - first:
+      213: 1413594914215655173
+    second: Zombie_TileD_92
+  - first:
+      213: -703063131440190955
+    second: Zombie_TileD_93
+  - first:
+      213: -2316530677298085073
+    second: Zombie_TileD_94
+  - first:
+      213: -3286612321729166011
+    second: Zombie_TileD_95
+  - first:
+      213: -5803519951342854102
+    second: Zombie_TileD_96
+  - first:
+      213: -3104616656091097968
+    second: Zombie_TileD_97
+  - first:
+      213: 28507312359135781
+    second: Zombie_TileD_98
+  - first:
+      213: -705068390586343190
+    second: Zombie_TileD_99
+  - first:
+      213: 6789069491882182360
+    second: Zombie_TileD_100
+  - first:
+      213: 1238010878748250168
+    second: Zombie_TileD_101
+  - first:
+      213: -6837325264659130095
+    second: Zombie_TileD_102
+  - first:
+      213: -3079457211481429901
+    second: Zombie_TileD_103
+  - first:
+      213: -2959075742984236487
+    second: Zombie_TileD_104
+  - first:
+      213: 4591888994969782586
+    second: Zombie_TileD_105
+  - first:
+      213: 7191092015165457919
+    second: Zombie_TileD_106
+  - first:
+      213: 8680371000736562581
+    second: Zombie_TileD_107
+  - first:
+      213: -7399774006328275898
+    second: Zombie_TileD_108
+  - first:
+      213: 6981331973232590002
+    second: Zombie_TileD_109
+  - first:
+      213: -6203537889667343216
+    second: Zombie_TileD_110
+  - first:
+      213: -6233449499482022352
+    second: Zombie_TileD_111
+  - first:
+      213: 5557844733639946044
+    second: Zombie_TileD_112
+  - first:
+      213: -1875334280373733621
+    second: Zombie_TileD_113
+  - first:
+      213: -1245063428660188406
+    second: Zombie_TileD_114
+  - first:
+      213: 6776999525489590048
+    second: Zombie_TileD_115
+  - first:
+      213: 1654508250920919652
+    second: Zombie_TileD_116
+  - first:
+      213: -1507066960358260178
+    second: Zombie_TileD_117
+  - first:
+      213: -5984544910077011222
+    second: Zombie_TileD_118
+  - first:
+      213: 576537139406022407
+    second: Zombie_TileD_119
+  - first:
+      213: -876877930708121557
+    second: Zombie_TileD_120
+  - first:
+      213: 8755767932648954627
+    second: Zombie_TileD_121
+  - first:
+      213: -1984555734497520665
+    second: Zombie_TileD_122
+  - first:
+      213: -4245464735082474112
+    second: Zombie_TileD_123
+  - first:
+      213: -2304189571398461612
+    second: Zombie_TileD_124
+  - first:
+      213: 5943727446775525550
+    second: Zombie_TileD_125
+  - first:
+      213: 2876563748350704722
+    second: Zombie_TileD_126
+  - first:
+      213: 8749870691372402355
+    second: Zombie_TileD_127
+  - first:
+      213: -6042659048454233200
+    second: Zombie_TileD_128
+  - first:
+      213: 7635280498288027229
+    second: Zombie_TileD_129
+  - first:
+      213: -8355369999236319499
+    second: Zombie_TileD_130
+  - first:
+      213: -6542688173457836890
+    second: Zombie_TileD_131
+  - first:
+      213: 3418436872961210460
+    second: Zombie_TileD_132
+  - first:
+      213: 1884839914377056878
+    second: Zombie_TileD_133
+  - first:
+      213: 2272918952059670379
+    second: Zombie_TileD_134
+  - first:
+      213: -2011516821106711304
+    second: Zombie_TileD_135
+  - first:
+      213: -2291169142146791454
+    second: Zombie_TileD_136
+  - first:
+      213: -8477629379733856143
+    second: Zombie_TileD_137
+  - first:
+      213: 6099319000373574164
+    second: Zombie_TileD_138
+  - first:
+      213: -6645629357363726141
+    second: Zombie_TileD_139
+  - first:
+      213: 26639820617261664
+    second: Zombie_TileD_140
+  - first:
+      213: 3117523911086182626
+    second: Zombie_TileD_141
+  - first:
+      213: -6779516100499245414
+    second: Zombie_TileD_142
+  - first:
+      213: 356370509647267408
+    second: Zombie_TileD_143
+  - first:
+      213: 8976794817057485572
+    second: Zombie_TileD_144
+  - first:
+      213: 3315870928089210571
+    second: Zombie_TileD_145
+  - first:
+      213: 5525346532721703186
+    second: Zombie_TileD_146
+  - first:
+      213: 5150679446490851710
+    second: Zombie_TileD_147
+  - first:
+      213: -8189144330903103360
+    second: Zombie_TileD_148
+  - first:
+      213: 217257189767683968
+    second: Zombie_TileD_149
+  - first:
+      213: -1554727280129556149
+    second: Zombie_TileD_150
+  - first:
+      213: -7564315101390432357
+    second: Zombie_TileD_151
+  - first:
+      213: 8168285493620033885
+    second: Zombie_TileD_152
+  - first:
+      213: 5101009824524449631
+    second: Zombie_TileD_153
+  - first:
+      213: 769243919593356189
+    second: Zombie_TileD_154
+  - first:
+      213: -7610602962281494046
+    second: Zombie_TileD_155
+  - first:
+      213: -2066644778805512139
+    second: Zombie_TileD_156
+  - first:
+      213: 1847873738243612377
+    second: Zombie_TileD_157
+  - first:
+      213: 1182505197387123632
+    second: Zombie_TileD_158
+  - first:
+      213: -5594347474206257657
+    second: Zombie_TileD_159
+  - first:
+      213: -7606785858466613856
+    second: Zombie_TileD_160
+  - first:
+      213: -4529389594435817143
+    second: Zombie_TileD_161
+  - first:
+      213: -3486737479205470945
+    second: Zombie_TileD_162
+  - first:
+      213: 4375652228108976632
+    second: Zombie_TileD_163
+  - first:
+      213: -8338936548392919404
+    second: Zombie_TileD_164
+  - first:
+      213: 3639382521708517727
+    second: Zombie_TileD_165
+  - first:
+      213: -1573878238754603244
+    second: Zombie_TileD_166
+  - first:
+      213: -5566150656056852574
+    second: Zombie_TileD_167
+  - first:
+      213: 2316085641709374778
+    second: Zombie_TileD_168
+  - first:
+      213: 7016172670925902189
+    second: Zombie_TileD_169
+  - first:
+      213: 5702121027721706242
+    second: Zombie_TileD_170
+  - first:
+      213: -5480727425207811513
+    second: Zombie_TileD_171
+  - first:
+      213: 9164372437227289610
+    second: Zombie_TileD_172
+  - first:
+      213: -7060965829076216717
+    second: Zombie_TileD_173
+  - first:
+      213: 7234256786010683205
+    second: Zombie_TileD_174
+  - first:
+      213: -4981811658831400664
+    second: Zombie_TileD_175
+  - first:
+      213: -5579613117599411789
+    second: Zombie_TileD_176
+  - first:
+      213: -3997443849943932568
+    second: Zombie_TileD_177
+  - first:
+      213: -5592050411522499105
+    second: Zombie_TileD_178
+  - first:
+      213: -2546494337840922272
+    second: Zombie_TileD_179
+  - first:
+      213: 7963657149026307204
+    second: Zombie_TileD_180
+  - first:
+      213: -1515378405475277352
+    second: Zombie_TileD_181
+  - first:
+      213: -1406442658714653977
+    second: Zombie_TileD_182
+  - first:
+      213: -6172512118144479624
+    second: Zombie_TileD_183
+  - first:
+      213: -782268111231603300
+    second: Zombie_TileD_184
+  - first:
+      213: -2783326775626249014
+    second: Zombie_TileD_185
+  - first:
+      213: 1869627025892690193
+    second: Zombie_TileD_186
+  - first:
+      213: 2316359572587173498
+    second: Zombie_TileD_187
+  - first:
+      213: -3319589129479491705
+    second: Zombie_TileD_188
+  - first:
+      213: -648603331667887326
+    second: Zombie_TileD_189
+  - first:
+      213: 2485024183292974676
+    second: Zombie_TileD_190
+  - first:
+      213: 7091262279304951524
+    second: Zombie_TileD_191
+  - first:
+      213: 3318754747502757203
+    second: Zombie_TileD_192
+  - first:
+      213: -1880327606404017602
+    second: Zombie_TileD_193
+  - first:
+      213: -8525842515480452995
+    second: Zombie_TileD_194
+  - first:
+      213: 1967378479392621931
+    second: Zombie_TileD_195
+  - first:
+      213: -5792640588626707547
+    second: Zombie_TileD_196
+  - first:
+      213: -4196067681957221316
+    second: Zombie_TileD_197
+  - first:
+      213: -7717102344301911270
+    second: Zombie_TileD_198
+  - first:
+      213: 7666312282414963565
+    second: Zombie_TileD_199
+  - first:
+      213: -8944128573582042381
+    second: Zombie_TileD_200
+  - first:
+      213: 5030959277570031315
+    second: Zombie_TileD_201
+  - first:
+      213: -3046036420349923312
+    second: Zombie_TileD_202
+  - first:
+      213: 7277994054134552243
+    second: Zombie_TileD_203
+  - first:
+      213: -387619212378053472
+    second: Zombie_TileD_204
+  - first:
+      213: 4455167938301740061
+    second: Zombie_TileD_205
+  - first:
+      213: 5653731493728411823
+    second: Zombie_TileD_206
+  - first:
+      213: -1911303733265845930
+    second: Zombie_TileD_207
+  - first:
+      213: -6831609587914593735
+    second: Zombie_TileD_208
+  - first:
+      213: 4459920985963105372
+    second: Zombie_TileD_209
+  - first:
+      213: -4250194288769596334
+    second: Zombie_TileD_210
+  - first:
+      213: 1326326797497793047
+    second: Zombie_TileD_211
+  - first:
+      213: 8558720428133721976
+    second: Zombie_TileD_212
+  - first:
+      213: 3456153699623810700
+    second: Zombie_TileD_213
+  - first:
+      213: -3159273608860266107
+    second: Zombie_TileD_214
+  - first:
+      213: -8279962491363996304
+    second: Zombie_TileD_215
+  - first:
+      213: 2207073156459446250
+    second: Zombie_TileD_216
+  - first:
+      213: -6365951581835497475
+    second: Zombie_TileD_217
+  - first:
+      213: -2097934056638787302
+    second: Zombie_TileD_218
+  - first:
+      213: 8466955365414242107
+    second: Zombie_TileD_219
+  - first:
+      213: -3824673375521931416
+    second: Zombie_TileD_220
+  - first:
+      213: -5660124570983010171
+    second: Zombie_TileD_221
+  - first:
+      213: 7918457056999166244
+    second: Zombie_TileD_222
+  - first:
+      213: -3245739361965495965
+    second: Zombie_TileD_223
+  - first:
+      213: -5258215000441696876
+    second: Zombie_TileD_224
+  - first:
+      213: -5190676004009462529
+    second: Zombie_TileD_225
+  - first:
+      213: -3273656700280168173
+    second: Zombie_TileD_226
+  - first:
+      213: 6369485921046395337
+    second: Zombie_TileD_227
+  - first:
+      213: -3335337492369707940
+    second: Zombie_TileD_228
+  - first:
+      213: -2451114230602565355
+    second: Zombie_TileD_229
+  - first:
+      213: 7589582897589996331
+    second: Zombie_TileD_230
+  - first:
+      213: -7054663674138285040
+    second: Zombie_TileD_231
+  - first:
+      213: -111553710669698020
+    second: Zombie_TileD_232
+  - first:
+      213: 4105863928754569555
+    second: Zombie_TileD_233
+  - first:
+      213: 7561577152982871359
+    second: Zombie_TileD_234
+  - first:
+      213: -7597869281697930426
+    second: Zombie_TileD_235
+  - first:
+      213: -5552028401569647479
+    second: Zombie_TileD_236
+  - first:
+      213: 3151867852238563648
+    second: Zombie_TileD_237
+  - first:
+      213: -6933178927424471553
+    second: Zombie_TileD_238
+  - first:
+      213: -7105945438233316696
+    second: Zombie_TileD_239
+  - first:
+      213: -6243646738217198473
+    second: Zombie_TileD_240
+  - first:
+      213: 8437633928586764671
+    second: Zombie_TileD_241
+  - first:
+      213: 2079615192747927215
+    second: Zombie_TileD_242
+  - first:
+      213: -4851610669074047944
+    second: Zombie_TileD_243
+  - first:
+      213: -2349984942952237355
+    second: Zombie_TileD_244
+  - first:
+      213: -1323163736314572864
+    second: Zombie_TileD_245
+  - first:
+      213: -5736527885685344680
+    second: Zombie_TileD_246
+  - first:
+      213: -252911866821433572
+    second: Zombie_TileD_247
+  - first:
+      213: -960179837301589534
+    second: Zombie_TileD_248
+  - first:
+      213: -2903080381255951383
+    second: Zombie_TileD_249
+  - first:
+      213: -8486424289683549132
+    second: Zombie_TileD_250
+  - first:
+      213: 6648606090607163449
+    second: Zombie_TileD_251
+  - first:
+      213: 509731214374266790
+    second: Zombie_TileD_252
+  - first:
+      213: -2353634857751108121
+    second: Zombie_TileD_253
+  - first:
+      213: 7056409296797212282
+    second: Zombie_TileD_254
+  - first:
+      213: 4136835005992950826
+    second: Zombie_TileD_255
+  - first:
+      213: -8709424570958738964
+    second: Zombie_TileD_0
+  - first:
+      213: -4796216923692119661
+    second: Zombie_TileD_1
+  - first:
+      213: 5711532550648138444
+    second: Zombie_TileD_2
+  - first:
+      213: -7509300447411232242
+    second: Zombie_TileD_3
+  - first:
+      213: -2837336464606848894
+    second: Zombie_TileD_4
+  - first:
+      213: 6196114785622386291
+    second: Zombie_TileD_5
+  - first:
+      213: -878209353646880492
+    second: Zombie_TileD_6
+  - first:
+      213: 8483568891281940324
+    second: Zombie_TileD_7
+  - first:
+      213: -9193405367709030563
+    second: Zombie_TileD_8
+  - first:
+      213: -1431960234488408441
+    second: Zombie_TileD_9
+  - first:
+      213: 7626872935896595992
+    second: Zombie_TileD_10
+  - first:
+      213: -8311945533883229222
+    second: Zombie_TileD_11
+  - first:
+      213: -6256315748474856227
+    second: Zombie_TileD_12
+  - first:
+      213: 7185537686379597790
+    second: Zombie_TileD_13
+  - first:
+      213: -7636047771350375222
+    second: Zombie_TileD_14
+  - first:
+      213: -8180807523562383492
+    second: Zombie_TileD_15
+  - first:
+      213: -1053608645718434018
+    second: Zombie_TileD_16
+  - first:
+      213: 431374308317357745
+    second: Zombie_TileD_17
+  - first:
+      213: -393176440944654100
+    second: Zombie_TileD_18
+  - first:
+      213: 4987701748458970238
+    second: Zombie_TileD_19
+  - first:
+      213: 103888101497275155
+    second: Zombie_TileD_20
+  - first:
+      213: -3969584289313957341
+    second: Zombie_TileD_21
+  - first:
+      213: -581299771634059262
+    second: Zombie_TileD_22
+  - first:
+      213: 8044594588881875302
+    second: Zombie_TileD_23
+  - first:
+      213: -4929843715990393735
+    second: Zombie_TileD_24
+  - first:
+      213: 8199529368732646572
+    second: Zombie_TileD_25
+  - first:
+      213: 54249433048793931
+    second: Zombie_TileD_26
+  - first:
+      213: 189639865779513322
+    second: Zombie_TileD_27
+  - first:
+      213: 4533266668660895905
+    second: Zombie_TileD_28
+  - first:
+      213: 752318812551953921
+    second: Zombie_TileD_29
+  - first:
+      213: -4502784894043031910
+    second: Zombie_TileD_30
+  - first:
+      213: 3351481792593702531
+    second: Zombie_TileD_31
+  - first:
+      213: -5519013975454337063
+    second: Zombie_TileD_32
+  - first:
+      213: -8899958307626747287
+    second: Zombie_TileD_33
+  - first:
+      213: -8846123412034342587
+    second: Zombie_TileD_34
+  - first:
+      213: 5927927809862440572
+    second: Zombie_TileD_35
+  - first:
+      213: -934161837332375651
+    second: Zombie_TileD_36
+  - first:
+      213: 2923047970308023962
+    second: Zombie_TileD_37
+  - first:
+      213: 481948855393321648
+    second: Zombie_TileD_38
+  - first:
+      213: -7136274030861470188
+    second: Zombie_TileD_39
+  - first:
+      213: 1071647081253675170
+    second: Zombie_TileD_40
+  - first:
+      213: 298725614081873055
+    second: Zombie_TileD_41
+  - first:
+      213: -177835697091944679
+    second: Zombie_TileD_42
+  - first:
+      213: 3597407767181954372
+    second: Zombie_TileD_43
+  - first:
+      213: -3917223646185809433
+    second: Zombie_TileD_44
+  - first:
+      213: -4963271453676566106
+    second: Zombie_TileD_45
+  - first:
+      213: 5662639792047153501
+    second: Zombie_TileD_46
+  - first:
+      213: -1868810767060079505
+    second: Zombie_TileD_47
+  - first:
+      213: -6805153517335454970
+    second: Zombie_TileD_48
+  - first:
+      213: 635922552459337902
+    second: Zombie_TileD_49
+  - first:
+      213: -1628762580887546076
+    second: Zombie_TileD_50
+  - first:
+      213: 6389793501431435404
+    second: Zombie_TileD_51
+  - first:
+      213: -3709422001359239556
+    second: Zombie_TileD_52
+  - first:
+      213: -4876743453536134914
+    second: Zombie_TileD_53
+  - first:
+      213: 5392892995396963327
+    second: Zombie_TileD_54
+  - first:
+      213: -746225025180267280
+    second: Zombie_TileD_55
+  - first:
+      213: -6870534325194864165
+    second: Zombie_TileD_56
+  - first:
+      213: -8796539592043869265
+    second: Zombie_TileD_57
+  - first:
+      213: -4056448149906590733
+    second: Zombie_TileD_58
+  - first:
+      213: 2322068858253545907
+    second: Zombie_TileD_59
+  - first:
+      213: -3464951421506551164
+    second: Zombie_TileD_60
+  - first:
+      213: -6153603695037605915
+    second: Zombie_TileD_61
+  - first:
+      213: -5806877448812613910
+    second: Zombie_TileD_62
+  - first:
+      213: -4923537063259204764
+    second: Zombie_TileD_63
+  - first:
+      213: -197962693169794559
+    second: Zombie_TileD_64
+  - first:
+      213: -2595751176949224160
+    second: Zombie_TileD_65
+  - first:
+      213: 6837806386887691713
+    second: Zombie_TileD_66
+  - first:
+      213: 6571447164911982920
+    second: Zombie_TileD_67
+  - first:
+      213: -169282290811027229
+    second: Zombie_TileD_68
+  - first:
+      213: -2144974098781579673
+    second: Zombie_TileD_69
+  - first:
+      213: -7166278020159390858
+    second: Zombie_TileD_70
+  - first:
+      213: -3858305449422226804
+    second: Zombie_TileD_71
+  - first:
+      213: 6274083122293119646
+    second: Zombie_TileD_72
+  - first:
+      213: 4356598898024889898
+    second: Zombie_TileD_73
+  - first:
+      213: 9146142339479695991
+    second: Zombie_TileD_74
+  - first:
+      213: 6972279542755735460
+    second: Zombie_TileD_75
+  - first:
+      213: -4783146643948095363
+    second: Zombie_TileD_76
+  - first:
+      213: 8294855237968856823
+    second: Zombie_TileD_77
+  - first:
+      213: -5547475597527378720
+    second: Zombie_TileD_78
+  - first:
+      213: -8905431693051900813
+    second: Zombie_TileD_79
+  - first:
+      213: -371846301347512767
+    second: Zombie_TileD_80
+  - first:
+      213: -7069373470806334126
+    second: Zombie_TileD_81
+  - first:
+      213: -8842509839334508205
+    second: Zombie_TileD_82
+  - first:
+      213: -8026958421470660529
+    second: Zombie_TileD_83
+  - first:
+      213: 6408265724634140648
+    second: Zombie_TileD_84
+  - first:
+      213: -8962449863642007228
+    second: Zombie_TileD_85
+  - first:
+      213: 3864294866965646087
+    second: Zombie_TileD_86
+  - first:
+      213: -5849141004447059721
+    second: Zombie_TileD_87
+  - first:
+      213: -7668807399474543088
+    second: Zombie_TileD_88
+  - first:
+      213: 8804501134621603201
+    second: Zombie_TileD_89
+  - first:
+      213: 1577200217476913826
+    second: Zombie_TileD_90
+  - first:
+      213: -7331090433140377404
+    second: Zombie_TileD_91
+  - first:
+      213: 7116181797109532645
+    second: Zombie_TileD_92
+  - first:
+      213: -1762390440603031617
+    second: Zombie_TileD_93
+  - first:
+      213: 2807036976950206666
+    second: Zombie_TileD_94
+  - first:
+      213: -6455682968980356054
+    second: Zombie_TileD_95
+  - first:
+      213: -7563380796843087691
+    second: Zombie_TileD_96
+  - first:
+      213: -8893688253937175326
+    second: Zombie_TileD_97
+  - first:
+      213: -6138676554681072111
+    second: Zombie_TileD_98
+  - first:
+      213: -6172568819000809809
+    second: Zombie_TileD_99
+  - first:
+      213: 6710518498440811079
+    second: Zombie_TileD_100
+  - first:
+      213: -1046092321083331596
+    second: Zombie_TileD_101
+  - first:
+      213: 6030122812050773260
+    second: Zombie_TileD_102
+  - first:
+      213: -4990104665042465031
+    second: Zombie_TileD_103
+  - first:
+      213: 1664399050910060240
+    second: Zombie_TileD_104
+  - first:
+      213: 1919622880929155174
+    second: Zombie_TileD_105
+  - first:
+      213: 1811424484630597397
+    second: Zombie_TileD_106
+  - first:
+      213: -2024258908161663253
+    second: Zombie_TileD_107
+  - first:
+      213: 8352903593996312076
+    second: Zombie_TileD_108
+  - first:
+      213: -5552147473767088434
+    second: Zombie_TileD_109
+  - first:
+      213: 7146927024796320786
+    second: Zombie_TileD_110
+  - first:
+      213: -1902948621293525398
+    second: Zombie_TileD_111
+  - first:
+      213: -7546153375672221575
+    second: Zombie_TileD_112
+  - first:
+      213: 2495739649244768229
+    second: Zombie_TileD_113
+  - first:
+      213: -2372450812700002951
+    second: Zombie_TileD_114
+  - first:
+      213: 8194068879844280251
+    second: Zombie_TileD_115
+  - first:
+      213: -4570458764560183155
+    second: Zombie_TileD_116
+  - first:
+      213: 673281130040122620
+    second: Zombie_TileD_117
+  - first:
+      213: -2259258802970231183
+    second: Zombie_TileD_118
+  - first:
+      213: 1954779956735088274
+    second: Zombie_TileD_119
+  - first:
+      213: -2492703022650616657
+    second: Zombie_TileD_120
+  - first:
+      213: 5638695678276787463
+    second: Zombie_TileD_121
+  - first:
+      213: -2894384318943107963
+    second: Zombie_TileD_122
+  - first:
+      213: 7004034261630385868
+    second: Zombie_TileD_123
+  - first:
+      213: -5936302294999490673
+    second: Zombie_TileD_124
+  - first:
+      213: 7732410991008342337
+    second: Zombie_TileD_125
+  - first:
+      213: 6245131701183681014
+    second: Zombie_TileD_126
+  - first:
+      213: -2601023308829308204
+    second: Zombie_TileD_127
+  - first:
+      213: -4664029989905416626
+    second: Zombie_TileD_128
+  - first:
+      213: 3029242059063669503
+    second: Zombie_TileD_129
+  - first:
+      213: -6019003865504168107
+    second: Zombie_TileD_130
+  - first:
+      213: 8301052373353331188
+    second: Zombie_TileD_131
+  - first:
+      213: 5381082753533892670
+    second: Zombie_TileD_132
+  - first:
+      213: -5952769474240248338
+    second: Zombie_TileD_133
+  - first:
+      213: 5722615064331569950
+    second: Zombie_TileD_134
+  - first:
+      213: 2523640287278567241
+    second: Zombie_TileD_135
+  - first:
+      213: -2973441080400531974
+    second: Zombie_TileD_136
+  - first:
+      213: 7582720988310832526
+    second: Zombie_TileD_137
+  - first:
+      213: 9176750723340805557
+    second: Zombie_TileD_138
+  - first:
+      213: -2390180813031597942
+    second: Zombie_TileD_139
+  - first:
+      213: -2738003422892350529
+    second: Zombie_TileD_140
+  - first:
+      213: 6616132021422946683
+    second: Zombie_TileD_141
+  - first:
+      213: 4615088228407396409
+    second: Zombie_TileD_142
+  - first:
+      213: -3987365038712093766
+    second: Zombie_TileD_143
+  - first:
+      213: -7505308034944866943
+    second: Zombie_TileD_144
+  - first:
+      213: -6301278723513448758
+    second: Zombie_TileD_145
+  - first:
+      213: 6449007896509597523
+    second: Zombie_TileD_146
+  - first:
+      213: 5333307138280957763
+    second: Zombie_TileD_147
+  - first:
+      213: 5475881646066923188
+    second: Zombie_TileD_148
+  - first:
+      213: 6849462545286059953
+    second: Zombie_TileD_149
+  - first:
+      213: 4347251272046786200
+    second: Zombie_TileD_150
+  - first:
+      213: -6923697461672915379
+    second: Zombie_TileD_151
+  - first:
+      213: -8006787006058080138
+    second: Zombie_TileD_152
+  - first:
+      213: -3150720032961047526
+    second: Zombie_TileD_153
+  - first:
+      213: -6807942716799226547
+    second: Zombie_TileD_154
+  - first:
+      213: 8701620976937387762
+    second: Zombie_TileD_155
+  - first:
+      213: 1045198008727550955
+    second: Zombie_TileD_156
+  - first:
+      213: -7009178726743965854
+    second: Zombie_TileD_157
+  - first:
+      213: -4050006226251155798
+    second: Zombie_TileD_158
+  - first:
+      213: 8885083736040133141
+    second: Zombie_TileD_159
+  - first:
+      213: -5360762739241231658
+    second: Zombie_TileD_160
+  - first:
+      213: -4754528189934435761
+    second: Zombie_TileD_161
+  - first:
+      213: 3502940225507719769
+    second: Zombie_TileD_162
+  - first:
+      213: 2856950783445371043
+    second: Zombie_TileD_163
+  - first:
+      213: -6644421392509839335
+    second: Zombie_TileD_164
+  - first:
+      213: -5123625915292037668
+    second: Zombie_TileD_165
+  - first:
+      213: 4205293228215499330
+    second: Zombie_TileD_166
+  - first:
+      213: 3718541759598615534
+    second: Zombie_TileD_167
+  - first:
+      213: 5998968188093845353
+    second: Zombie_TileD_168
+  - first:
+      213: -5105455635598170515
+    second: Zombie_TileD_169
+  - first:
+      213: 111162063757509520
+    second: Zombie_TileD_170
+  - first:
+      213: 110708933428653899
+    second: Zombie_TileD_171
+  - first:
+      213: 7318551534751108223
+    second: Zombie_TileD_172
+  - first:
+      213: 4081701008380023191
+    second: Zombie_TileD_173
+  - first:
+      213: -5303695160539030114
+    second: Zombie_TileD_174
+  - first:
+      213: -2316309318650523024
+    second: Zombie_TileD_175
+  - first:
+      213: -6402066753783429068
+    second: Zombie_TileD_176
+  - first:
+      213: -7569585291803863457
+    second: Zombie_TileD_177
+  - first:
+      213: 6709642852186976159
+    second: Zombie_TileD_178
+  - first:
+      213: -3921153930410671731
+    second: Zombie_TileD_179
+  - first:
+      213: -840391423819166221
+    second: Zombie_TileD_180
+  - first:
+      213: 7369348850955613462
+    second: Zombie_TileD_181
+  - first:
+      213: -3555649792044257684
+    second: Zombie_TileD_182
+  - first:
+      213: -2225006089913716169
+    second: Zombie_TileD_183
+  - first:
+      213: 4480419482933808034
+    second: Zombie_TileD_184
+  - first:
+      213: 4931168358555778461
+    second: Zombie_TileD_185
+  - first:
+      213: -1364755495543501405
+    second: Zombie_TileD_186
+  - first:
+      213: 3646141155837445781
+    second: Zombie_TileD_187
+  - first:
+      213: -2128403916388208155
+    second: Zombie_TileD_188
+  - first:
+      213: 5285089524762307250
+    second: Zombie_TileD_189
+  - first:
+      213: 5691184179280032055
+    second: Zombie_TileD_190
+  - first:
+      213: 7409002789760192494
+    second: Zombie_TileD_191
+  - first:
+      213: 6901938261868268548
+    second: Zombie_TileD_192
+  - first:
+      213: -7117986079344470261
+    second: Zombie_TileD_193
+  - first:
+      213: -5269899054345349306
+    second: Zombie_TileD_194
+  - first:
+      213: -4069015693989521864
+    second: Zombie_TileD_195
+  - first:
+      213: 951889181329135605
+    second: Zombie_TileD_196
+  - first:
+      213: 4196131450093298771
+    second: Zombie_TileD_197
+  - first:
+      213: -93927839430641289
+    second: Zombie_TileD_198
+  - first:
+      213: -8978535048369715310
+    second: Zombie_TileD_199
+  - first:
+      213: -7274990771768823701
+    second: Zombie_TileD_200
+  - first:
+      213: -5619501563814706011
+    second: Zombie_TileD_201
+  - first:
+      213: -2878003091610044357
+    second: Zombie_TileD_202
+  - first:
+      213: 6212512709111285076
+    second: Zombie_TileD_203
+  - first:
+      213: -4655099676184292362
+    second: Zombie_TileD_204
+  - first:
+      213: 3783702628928367710
+    second: Zombie_TileD_205
+  - first:
+      213: -4267342763838904235
+    second: Zombie_TileD_206
+  - first:
+      213: 7719176325125489435
+    second: Zombie_TileD_207
+  - first:
+      213: -7389929107000252163
+    second: Zombie_TileD_208
+  - first:
+      213: 722100250250178736
+    second: Zombie_TileD_209
+  - first:
+      213: -7063882013251807054
+    second: Zombie_TileD_210
+  - first:
+      213: -5619957803338268119
+    second: Zombie_TileD_211
+  - first:
+      213: 6628065608370607276
+    second: Zombie_TileD_212
+  - first:
+      213: 9077363686986572571
+    second: Zombie_TileD_213
+  - first:
+      213: -8236455240900908705
+    second: Zombie_TileD_214
+  - first:
+      213: -1765889162757315864
+    second: Zombie_TileD_215
+  - first:
+      213: 4824772382372148807
+    second: Zombie_TileD_216
+  - first:
+      213: 3136223636284764128
+    second: Zombie_TileD_217
+  - first:
+      213: 5294010427670325231
+    second: Zombie_TileD_218
+  - first:
+      213: -680631999095006438
+    second: Zombie_TileD_219
+  - first:
+      213: 3780187385437672848
+    second: Zombie_TileD_220
+  - first:
+      213: -1247872724863352977
+    second: Zombie_TileD_221
+  - first:
+      213: -7781913087889902286
+    second: Zombie_TileD_222
+  - first:
+      213: -1425819828766653489
+    second: Zombie_TileD_223
+  - first:
+      213: 2746206315475637109
+    second: Zombie_TileD_224
+  - first:
+      213: -1779716917108679736
+    second: Zombie_TileD_225
+  - first:
+      213: 7967378257881253308
+    second: Zombie_TileD_226
+  - first:
+      213: -6944888726269366014
+    second: Zombie_TileD_227
+  - first:
+      213: 45439818674319579
+    second: Zombie_TileD_228
+  - first:
+      213: -4915871204572824864
+    second: Zombie_TileD_229
+  - first:
+      213: -1252909154739171896
+    second: Zombie_TileD_230
+  - first:
+      213: 8400427050919425681
+    second: Zombie_TileD_231
+  - first:
+      213: -6614758005559109116
+    second: Zombie_TileD_232
+  - first:
+      213: 6455106496760815992
+    second: Zombie_TileD_233
+  - first:
+      213: -762412619297725971
+    second: Zombie_TileD_234
+  - first:
+      213: 86098637104407632
+    second: Zombie_TileD_235
+  - first:
+      213: 5874541183704910027
+    second: Zombie_TileD_236
+  - first:
+      213: -4073879614421277668
+    second: Zombie_TileD_237
+  - first:
+      213: -8858869151913507416
+    second: Zombie_TileD_238
+  - first:
+      213: 3454365275994381210
+    second: Zombie_TileD_239
+  - first:
+      213: 8524028807501761164
+    second: Zombie_TileD_240
+  - first:
+      213: 5482163145657390764
+    second: Zombie_TileD_241
+  - first:
+      213: 2590968659116416427
+    second: Zombie_TileD_242
+  - first:
+      213: -1201931303282189456
+    second: Zombie_TileD_243
+  - first:
+      213: 2153463947553038530
+    second: Zombie_TileD_244
+  - first:
+      213: 9082497700056493915
+    second: Zombie_TileD_245
+  - first:
+      213: -5668284131480211179
+    second: Zombie_TileD_246
+  - first:
+      213: 7659161093114540105
+    second: Zombie_TileD_247
+  - first:
+      213: -6640726012423229009
+    second: Zombie_TileD_248
+  - first:
+      213: -7229199679865141784
+    second: Zombie_TileD_249
+  - first:
+      213: -5002597341907520747
+    second: Zombie_TileD_250
+  - first:
+      213: -1545808654760449189
+    second: Zombie_TileD_251
+  - first:
+      213: -389836845160803661
+    second: Zombie_TileD_252
+  - first:
+      213: 7269230753906264737
+    second: Zombie_TileD_253
+  - first:
+      213: 2113952724692482869
+    second: Zombie_TileD_254
+  - first:
+      213: 5366758968020516673
+    second: Zombie_TileD_255
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Zombie_TileD_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce902f94f78e12780800000000000000
+      internalID: -8709424570958738964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3994d9d8e1a607db0800000000000000
+      internalID: -4796216923692119661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca86740890734f40800000000000000
+      internalID: 5711532550648138444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e022f50770b99c790800000000000000
+      internalID: -7509300447411232242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28898dea481cf98d0800000000000000
+      internalID: -2837336464606848894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3766190b1950df550800000000000000
+      internalID: 6196114785622386291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419c37dee39ffc3f0800000000000000
+      internalID: -878209353646880492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f1a6075f0bbb570800000000000000
+      internalID: 8483568891281940324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a88dd6867a6080800000000000000
+      internalID: -9193405367709030563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78655dae0c7a02ce0800000000000000
+      internalID: -1431960234488408441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81e382bb68818d960800000000000000
+      internalID: 7626872935896595992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbde74539906ac80800000000000000
+      internalID: -8311945533883229222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_12
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddc597169f91d29a0800000000000000
+      internalID: -6256315748474856227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_13
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf86d4847828b360800000000000000
+      internalID: 7185537686379597790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_14
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac46fbc620f470690800000000000000
+      internalID: -7636047771350375222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_15
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77983ea6eee77e80800000000000000
+      internalID: -8180807523562383492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f1cabd484d061f0800000000000000
+      internalID: -1053608645718434018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b66c7cd5ac8cf500800000000000000
+      internalID: 431374308317357745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce8017f2c182b8af0800000000000000
+      internalID: -393176440944654100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cdd727050e73540800000000000000
+      internalID: 4987701748458970238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313822a8da5117100800000000000000
+      internalID: 103888101497275155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a5871ee1439e8c0800000000000000
+      internalID: -3969584289313957341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2087cb300fecee7f0800000000000000
+      internalID: -581299771634059262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_23
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6617550182424af60800000000000000
+      internalID: 8044594588881875302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_24
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c633e724da59bb0800000000000000
+      internalID: -4929843715990393735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cac31b494849ac170800000000000000
+      internalID: 8199529368732646572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43c32a629bb0c000800000000000000
+      internalID: 54249433048793931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_27
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae76a03047cb1a200800000000000000
+      internalID: 189639865779513322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_28
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0b6a1540669ee30800000000000000
+      internalID: 4533266668660895905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10eb00c59f5c07a00800000000000000
+      internalID: 752318812551953921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_30
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96f192eef4e281c0800000000000000
+      internalID: -4502784894043031910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_31
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38eacb6feead28e20800000000000000
+      internalID: 3351481792593702531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7b0a2c7068863b0800000000000000
+      internalID: -5519013975454337063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_33
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96afe1eb21ffc7480800000000000000
+      internalID: -8899958307626747287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_34
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413d6220a14c3580800000000000000
+      internalID: -8846123412034342587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_35
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7692018fea344250800000000000000
+      internalID: 5927927809862440572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_36
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97d31322c03903f0800000000000000
+      internalID: -934161837332375651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_37
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a96e2ab54a0c09820800000000000000
+      internalID: 2923047970308023962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_38
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b200a53ee930b600800000000000000
+      internalID: 481948855393321648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_39
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41638aa149cd6fc90800000000000000
+      internalID: -7136274030861470188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_40
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0a5b2b7514fde00800000000000000
+      internalID: 1071647081253675170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_41
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9419a00d59452400800000000000000
+      internalID: 298725614081873055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_42
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f537e2063388df0800000000000000
+      internalID: -177835697091944679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_43
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44d8c1bed4f8ce130800000000000000
+      internalID: 3597407767181954372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9955f19d933a9c0800000000000000
+      internalID: -3917223646185809433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_45
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a985cfc8eaee1bb0800000000000000
+      internalID: -4963271453676566106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_46
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5166ff83ecb59e40800000000000000
+      internalID: 5662639792047153501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_47
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c65fc3286a016e0800000000000000
+      internalID: -1868810767060079505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b58356eec3f81a0800000000000000
+      internalID: -6805153517335454970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0aff3313043d800800000000000000
+      internalID: 635922552459337902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427dfbeef097569e0800000000000000
+      internalID: -1628762580887546076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809be0c55b1da850800000000000000
+      internalID: 6389793501431435404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76c6f6d75c758cc0800000000000000
+      internalID: -3709422001359239556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef85447caa3525cb0800000000000000
+      internalID: -4876743453536134914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffb04564b9767da40800000000000000
+      internalID: 5392892995396963327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc8f931b40e4a5f0800000000000000
+      internalID: -746225025180267280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9c1a1de65f6a0a0800000000000000
+      internalID: -6870534325194864165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fabc09bd8d96ce580800000000000000
+      internalID: -8796539592043869265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f3f60f46e994b7c0800000000000000
+      internalID: -4056448149906590733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b11330e255a93020800000000000000
+      internalID: 2322068858253545907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_60
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4820e1d4a050aefc0800000000000000
+      internalID: -3464951421506551164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_61
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e790c4ea020a9aa0800000000000000
+      internalID: -6153603695037605915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_62
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee2c49f9b3d96fa0800000000000000
+      internalID: -5806877448812613910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_63
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46317f180251cabb0800000000000000
+      internalID: -4923537063259204764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102b5dabaf1b04df0800000000000000
+      internalID: -197962693169794559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_65
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02da3a4be0a0afbd0800000000000000
+      internalID: -2595751176949224160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_66
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cd865d3ea4c4ee50800000000000000
+      internalID: 6837806386887691713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_67
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84993d42168723b50800000000000000
+      internalID: 6571447164911982920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_68
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0c17547a696adf0800000000000000
+      internalID: -169282290811027229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_69
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 766d5b5fb658b32e0800000000000000
+      internalID: -2144974098781579673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_70
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67bb5b6fb144c8c90800000000000000
+      internalID: -7166278020159390858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_71
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8afb3cc2ab847ac0800000000000000
+      internalID: -3858305449422226804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a1e83bb55021750800000000000000
+      internalID: 6274083122293119646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_73
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2eb1a19d9fb57c30800000000000000
+      internalID: 4356598898024889898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_74
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 772f8d9dfff9dee70800000000000000
+      internalID: 9146142339479695991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_75
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7bdacad4382c060800000000000000
+      internalID: 6972279542755735460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_76
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d783fd23879de9db0800000000000000
+      internalID: -4783146643948095363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_77
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f60c6214ee3d1370800000000000000
+      internalID: 8294855237968856823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_78
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e49b39f5586303b0800000000000000
+      internalID: -5547475597527378720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_79
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37cc224ee0d896480800000000000000
+      internalID: -8905431693051900813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e732152cfe6daf0800000000000000
+      internalID: -371846301347512767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_81
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255a400984a84ed90800000000000000
+      internalID: -7069373470806334126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_82
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 359f1979628194580800000000000000
+      internalID: -8842509839334508205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_83
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48396528d38a9090800000000000000
+      internalID: -8026958421470660529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_84
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef012f59bbbee850800000000000000
+      internalID: 6408265724634140648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_85
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449be58855bfe9380800000000000000
+      internalID: -8962449863642007228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_86
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b4ad425bbb0a530800000000000000
+      internalID: 3864294866965646087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_87
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0f2cc1f3da3dea0800000000000000
+      internalID: -5849141004447059721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016ce6f1d4ce29590800000000000000
+      internalID: -7668807399474543088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_89
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185f4a9322fdf2a70800000000000000
+      internalID: 8804501134621603201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_90
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aa516ecd3753e510800000000000000
+      internalID: 1577200217476913826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_91
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c83764c71cb24a90800000000000000
+      internalID: -7331090433140377404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_92
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e780dd24a1c1c260800000000000000
+      internalID: 7116181797109532645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_93
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7ef485b3bba87e0800000000000000
+      internalID: -1762390440603031617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_94
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0e08a124994f620800000000000000
+      internalID: 2807036976950206666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_95
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24036b1b8ec866a0800000000000000
+      internalID: -6455682968980356054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8282fdc39790790800000000000000
+      internalID: -7563380796843087691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_97
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e4b20167a5439480800000000000000
+      internalID: -8893688253937175326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_98
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1164737923a0fcaa0800000000000000
+      internalID: -6138676554681072111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_99
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6edcfdc51a65aa0800000000000000
+      internalID: -6172568819000809809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_100
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742904e350d802d50800000000000000
+      internalID: 6710518498440811079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_101
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb609f83988b71f0800000000000000
+      internalID: -1046092321083331596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_102
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c051444afbc4fa350800000000000000
+      internalID: 6030122812050773260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_103
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fecf10fe369fbab0800000000000000
+      internalID: -4990104665042465031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_104
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0decdf15e12291710800000000000000
+      internalID: 1664399050910060240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_105
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6688e70f6ded3aa10800000000000000
+      internalID: 1919622880929155174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_106
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f0adfa8f8732910800000000000000
+      internalID: 1811424484630597397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_107
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee9a9d7f3368e3e0800000000000000
+      internalID: -2024258908161663253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0edb3b20997be370800000000000000
+      internalID: 8352903593996312076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_109
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eceb7850a4fc2f2b0800000000000000
+      internalID: -5552147473767088434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_110
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 214cf94534cfe2360800000000000000
+      internalID: 7146927024796320786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_111
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a66eaf9af4e5795e0800000000000000
+      internalID: -1902948621293525398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_112
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 970417e6c7da64790800000000000000
+      internalID: -7546153375672221575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_113
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7a71decf5a2a220800000000000000
+      internalID: 2495739649244768229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_114
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975fded3e8c531fd0800000000000000
+      internalID: -2372450812700002951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_115
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb783307b3e27b170800000000000000
+      internalID: 8194068879844280251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_116
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d1dd08f77290c0800000000000000
+      internalID: -4570458764560183155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_117
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfcd30ede99f75900800000000000000
+      internalID: 673281130040122620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_118
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ef849b61085a0e0800000000000000
+      internalID: -2259258802970231183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_119
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2969f378306c02b10800000000000000
+      internalID: 1954779956735088274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41e5ccec3286dd0800000000000000
+      internalID: -2492703022650616657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_121
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70dd73428dba04e40800000000000000
+      internalID: 5638695678276787463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_122
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5846fe90cc415d7d0800000000000000
+      internalID: -2894384318943107963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_123
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccef42f4d04533160800000000000000
+      internalID: 7004034261630385868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_124
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8f183bb3840e9da0800000000000000
+      internalID: -5936302294999490673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_125
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141e06804da0f4b60800000000000000
+      internalID: 7732410991008342337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_126
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f19590b13a2ba650800000000000000
+      internalID: 6245131701183681014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_127
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dac7b8d41f47ebd0800000000000000
+      internalID: -2601023308829308204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e3bed6f69064fb0800000000000000
+      internalID: -4664029989905416626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_129
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff2b9256a970a0a20800000000000000
+      internalID: 3029242059063669503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_130
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557cbe6dfd3387ca0800000000000000
+      internalID: -6019003865504168107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_131
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f973a71723433370800000000000000
+      internalID: 8301052373353331188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_132
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e385e5f01427daa40800000000000000
+      internalID: 5381082753533892670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee50f1ac3b3836da0800000000000000
+      internalID: -5952769474240248338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_134
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1b48cfc410da6f40800000000000000
+      internalID: 5722615064331569950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_135
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f8a107875c50320800000000000000
+      internalID: 2523640287278567241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd2c2267173cb6d0800000000000000
+      internalID: -2973441080400531974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_137
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e858a2b509c3b3960800000000000000
+      internalID: 7582720988310832526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_138
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5a901992e5a5f70800000000000000
+      internalID: 9176750723340805557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_139
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a881c4ad63f54ded0800000000000000
+      internalID: -2390180813031597942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_140
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3a2b8b468a00ad0800000000000000
+      internalID: -2738003422892350529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_141
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79700c050931db50800000000000000
+      internalID: 6616132021422946683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_142
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9384f4dba461c0040800000000000000
+      internalID: 4615088228407396409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_143
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab301cd8f980aa8c0800000000000000
+      internalID: -3987365038712093766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_144
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185e9376b1ac7d790800000000000000
+      internalID: -7505308034944866943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_145
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac60146f26c5d88a0800000000000000
+      internalID: -6301278723513448758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_146
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357c429738a7f7950800000000000000
+      internalID: 6449007896509597523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_147
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347aa4fc596b30a40800000000000000
+      internalID: 5333307138280957763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_148
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b676e9385d3efb40800000000000000
+      internalID: 5475881646066923188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_149
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b75e1a15ed2e0f50800000000000000
+      internalID: 6849462545286059953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896b6bbcff9845c30800000000000000
+      internalID: 4347251272046786200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_151
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e46b887d51aef90800000000000000
+      internalID: -6923697461672915379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_152
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678d1b7c3ad22e090800000000000000
+      internalID: -8006787006058080138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_153
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1456a0c2d46644d0800000000000000
+      internalID: -3150720032961047526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_154
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4d69f94b245581a0800000000000000
+      internalID: -6807942716799226547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_155
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f6c074ec2e52c870800000000000000
+      internalID: 8701620976937387762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_156
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebb62e1d0a418e00800000000000000
+      internalID: 1045198008727550955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_157
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f733195156abe90800000000000000
+      internalID: -7009178726743965854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_158
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6fd2a8bcc7bc7c0800000000000000
+      internalID: -4050006226251155798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_159
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512d54e25982e4b70800000000000000
+      internalID: 8885083736040133141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_160
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6da5062f0beba95b0800000000000000
+      internalID: -5360762739241231658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_161
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4280644dc5840eb0800000000000000
+      internalID: -4754528189934435761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_162
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a70d26391fc9030800000000000000
+      internalID: 3502940225507719769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_163
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a8090cc99de5a720800000000000000
+      internalID: 2856950783445371043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_164
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 918d17972f54ac3a0800000000000000
+      internalID: -6644421392509839335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_165
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd480d406935e8b0800000000000000
+      internalID: -5123625915292037668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_166
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24af32419e33c5a30800000000000000
+      internalID: 4205293228215499330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_167
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eebd457570aea9330800000000000000
+      internalID: 3718541759598615534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_168
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96fc33e78cd904350800000000000000
+      internalID: 5998968188093845353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_169
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66a7a73627c529b0800000000000000
+      internalID: -5105455635598170515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_170
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09304cade4dea8100800000000000000
+      internalID: 111162063757509520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_171
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4f2a7a3031598100800000000000000
+      internalID: 110708933428653899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_172
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cca3378d7b09560800000000000000
+      internalID: 7318551534751108223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_173
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79158dbf07d15a830800000000000000
+      internalID: 4081701008380023191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_174
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ddc170a5d7566b0800000000000000
+      internalID: -5303695160539030114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_175
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07298ef62f0dadfd0800000000000000
+      internalID: -2316309318650523024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4388660053a4727a0800000000000000
+      internalID: -6402066753783429068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_177
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f565201584e63f690800000000000000
+      internalID: -7569585291803863457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_178
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fe756ff907d1d50800000000000000
+      internalID: 6709642852186976159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_179
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81ce3486434599c0800000000000000
+      internalID: -3921153930410671731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_180
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fd49fed3745654f0800000000000000
+      internalID: -840391423819166221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_181
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61574274cbf254660800000000000000
+      internalID: 7369348850955613462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_182
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ea28f4a5bc7aec0800000000000000
+      internalID: -3555649792044257684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_183
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732bc93ffb03f11e0800000000000000
+      internalID: -2225006089913716169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_184
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ab420d08c5ad2e30800000000000000
+      internalID: 4480419482933808034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_185
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9dfc53ee770f6440800000000000000
+      internalID: 4931168358555778461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_186
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ad0eda8b1a6f0de0800000000000000
+      internalID: -1364755495543501405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_187
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5968f9a2012b99230800000000000000
+      internalID: 3646141155837445781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_188
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e171213ae36672e0800000000000000
+      internalID: -2128403916388208155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_189
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba6891dbe8685940800000000000000
+      internalID: 5285089524762307250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_190
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7313f4d9bd52bfe40800000000000000
+      internalID: 5691184179280032055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_191
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eefc88f58c012d660800000000000000
+      internalID: 7409002789760192494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_192
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cc558f74c98cf50800000000000000
+      internalID: 6901938261868268548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_193
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b075f70af55d73d90800000000000000
+      internalID: -7117986079344470261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_194
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647149f2bbe8dd6b0800000000000000
+      internalID: -5269899054345349306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_195
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836d34ee8c3f787c0800000000000000
+      internalID: -4069015693989521864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f719a6ca2ac53d00800000000000000
+      internalID: 951889181329135605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_197
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 354e7a16257ab3a30800000000000000
+      internalID: 4196131450093298771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_198
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7797730b02d42bef0800000000000000
+      internalID: -93927839430641289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_199
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297478e91f5d56380800000000000000
+      internalID: -8978535048369715310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_200
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b607978007a0a0b90800000000000000
+      internalID: -7274990771768823701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_201
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a48212e9158302b0800000000000000
+      internalID: -5619501563814706011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_202
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b387b1ebf674f08d0800000000000000
+      internalID: -2878003091610044357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_203
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4558d25c467473650800000000000000
+      internalID: 6212512709111285076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_204
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3dffe1283c56fb0800000000000000
+      internalID: -4655099676184292362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_205
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cacfc7e79628430800000000000000
+      internalID: 3783702628928367710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_206
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5586c8a9d5a57c4c0800000000000000
+      internalID: -4267342763838904235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_207
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13c5b148f5002b60800000000000000
+      internalID: 7719176325125489435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_208
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df82ee571a2b17990800000000000000
+      internalID: -7389929107000252163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_209
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b0f16c0a5a650a00800000000000000
+      internalID: 722100250250178736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_210
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8dad82cbc08fd90800000000000000
+      internalID: -7063882013251807054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_211
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92286575726e102b0800000000000000
+      internalID: -5619957803338268119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_212
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca4d9e6cd8e9bfb50800000000000000
+      internalID: 6628065608370607276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_213
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b136ddbed2649fd70800000000000000
+      internalID: 9077363686986572571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_214
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5962b5d89b32bd80800000000000000
+      internalID: -8236455240900908705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_215
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2632d992d4e77e0800000000000000
+      internalID: -1765889162757315864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_216
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74638654be805f240800000000000000
+      internalID: 4824772382372148807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_217
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efefe0e7ca168b20800000000000000
+      internalID: 3136223636284764128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_218
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7e0826f6a187940800000000000000
+      internalID: 5294010427670325231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_219
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1b9d2f8dc8ed86f0800000000000000
+      internalID: -680631999095006438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_220
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 095dc65166ce57430800000000000000
+      internalID: 3780187385437672848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_221
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ffe954e5aaeaee0800000000000000
+      internalID: -1247872724863352977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_222
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235fb53e647110490800000000000000
+      internalID: -7781913087889902286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_223
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc3c7a88b68763ce0800000000000000
+      internalID: -1425819828766653489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_224
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5731cd9081c7c1620800000000000000
+      internalID: 2746206315475637109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_225
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cbdbfaa4ec2d47e0800000000000000
+      internalID: -1779716917108679736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_226
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5ce240050d19e60800000000000000
+      internalID: 7967378257881253308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_227
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2017912cf7cce9f90800000000000000
+      internalID: -6944888726269366014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_228
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0bdba364f61a000800000000000000
+      internalID: 45439818674319579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_229
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea7dd15f2157cbb0800000000000000
+      internalID: -4915871204572824864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_230
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdcfef03c5cc9ee0800000000000000
+      internalID: -1252909154739171896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_231
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19672ab35ef449470800000000000000
+      internalID: 8400427050919425681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_232
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a5a73f3a8a334a0800000000000000
+      internalID: -6614758005559109116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_233
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871aebe7825259950800000000000000
+      internalID: 6455106496760815992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_234
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1eb7e13cd5b65f0800000000000000
+      internalID: -762412619297725971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_235
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054e0481142e13100800000000000000
+      internalID: 86098637104407632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_236
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc84229f410968150800000000000000
+      internalID: 5874541183704910027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_237
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14e6b4331ca677c0800000000000000
+      internalID: -4073879614421277668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_238
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a587805179fe0580800000000000000
+      internalID: -8858869151913507416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_239
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bd610aaee50ff20800000000000000
+      internalID: 3454365275994381210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_240
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ac656c90f6b4670800000000000000
+      internalID: 8524028807501761164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_241
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca695a1d55e841c40800000000000000
+      internalID: 5482163145657390764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_242
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badddc69448f4f320800000000000000
+      internalID: 2590968659116416427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_243
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b517709d1e15fe0800000000000000
+      internalID: -1201931303282189456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_244
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0628efc04a2ed10800000000000000
+      internalID: 2153463947553038530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_245
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f6b2d79838b0e70800000000000000
+      internalID: 9082497700056493915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_246
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51173214d953651b0800000000000000
+      internalID: -5668284131480211179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_247
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940b5982f6eca4a60800000000000000
+      internalID: 7659161093114540105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_248
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa131d230e667d3a0800000000000000
+      internalID: -6640726012423229009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_249
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e5454f6139bcab90800000000000000
+      internalID: -7229199679865141784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_250
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 513f941f834339ab0800000000000000
+      internalID: -5002597341907520747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_251
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b6742f73f2c8ae0800000000000000
+      internalID: -1545808654760449189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_252
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2d4db6475079af0800000000000000
+      internalID: -389836845160803661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_253
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa8dec4bde71e460800000000000000
+      internalID: 7269230753906264737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_254
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bb34b8dc4465d10800000000000000
+      internalID: 2113952724692482869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Zombie_TileD_255
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f310cd8de8a7a40800000000000000
+      internalID: 5366758968020516673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
